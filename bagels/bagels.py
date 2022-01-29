@@ -79,7 +79,7 @@ def getClues ( guess, random):
     clues.sort()
     return ' '.join(clues)
   
-if_name_=='_main_':
+if _name_ =='_main_':
   main()
   
       
