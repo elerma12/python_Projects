@@ -8,7 +8,7 @@ try:
     import bext
 except ImportError:
     print('This Program requires the bext module which you')
-    print('can instrall by following the instruictions at')
+    print('can install by following the instruictions at')
     print('https/pypi.org/project/Bext/')
     sys.exit()
 
@@ -124,7 +124,7 @@ def main( ):
         # Display number of corner bounces: 
         bext.goto(5,0)
         bext.fg('white')
-        print('Corner Bounces:' , cornerBounces, end='')
+        print('Corner bounces:' , cornerBounces, end='')
 
         for logo in logos:
             # Draw the logos at their new location:
