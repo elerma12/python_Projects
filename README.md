@@ -9,4 +9,4 @@ The projects from this repository display my skills using the phython programmin
 2. birthday paradox - the simulator created a number of birthdays and shows which day multiple people share a birthday 
 
 
-![image](https://user-images.githubusercontent.com/70728294/225682361-c688bece-57b7-4a48-b518-750be25af7e7.png)
+![image](https://user-images.githubusercontent.com/70728294/225682784-d39eef86-4e96-4124-96ce-e510e1e40a1e.png)
