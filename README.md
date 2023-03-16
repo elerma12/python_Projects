@@ -22,3 +22,6 @@ The projects from this repository display my skills using the phython programmin
 4. blackjack - a simple game of blackjack that allows the user to bet and to play the game. 
 
 ![image](https://user-images.githubusercontent.com/70728294/225685811-63fcf422-799f-4a01-8ad1-84bbfc5c71fd.png)
+
+
+5. Bouncing DVD Logo - a program that bounces the DVD logo in the terminal page . Program countes and displays the number of times the logo hits a corner.
