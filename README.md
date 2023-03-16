@@ -17,3 +17,8 @@ The projects from this repository display my skills using the phython programmin
 
 
 ![image](https://user-images.githubusercontent.com/70728294/225684521-858ba486-664f-4f50-96ef-051c37710ed2.png)
+
+
+4. blackjack - a simple game of blackjack that allows the user to bet and to play the game. 
+
+![image](https://user-images.githubusercontent.com/70728294/225685811-63fcf422-799f-4a01-8ad1-84bbfc5c71fd.png)
