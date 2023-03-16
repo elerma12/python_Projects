@@ -10,3 +10,10 @@ The projects from this repository display my skills using the phython programmin
 
 
 ![image](https://user-images.githubusercontent.com/70728294/225682784-d39eef86-4e96-4124-96ce-e510e1e40a1e.png)
+
+
+
+3. Bitmap message  - creates a mitmap of the world using message input by user 
+
+
+![image](https://user-images.githubusercontent.com/70728294/225684521-858ba486-664f-4f50-96ef-051c37710ed2.png)
